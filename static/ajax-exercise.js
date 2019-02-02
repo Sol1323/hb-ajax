@@ -29,6 +29,8 @@ function showWeather(evt) {
 
 
     // TODO: request weather with that URL and show the forecast in #weather-info
+
+
 }
 
 $("#weather-form").on('submit', showWeather);
